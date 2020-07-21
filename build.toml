@@ -9,7 +9,7 @@ path = 'Source\Message Library.lvproj'
 name = 'Messaging Libraries'
 type = 'lvBuildSpecAllTargets'
 project = '{library}'
-build_spec = 'Messages'
+build_spec = 'Messaging'
 
 [notification]
 type = 'teams'
